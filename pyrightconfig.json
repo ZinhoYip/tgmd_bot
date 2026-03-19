@@ -1,0 +1,8 @@
+{
+  "typeCheckingMode": "off",
+  "extraPaths": ["/home/zinho/.local/lib/python3.10/site-packages"],
+  "reportMissingImports": "none",
+  "reportMissingTypeStubs": "none",
+  "reportUnusedCallResult": "none",
+  "reportUnusedExpression": "none"
+}

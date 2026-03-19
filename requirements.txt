@@ -1,0 +1,4 @@
+python-telegram-bot==20.8
+python-dotenv==1.0.1
+telegramify-markdown==1.1.0
+pytest==8.2.0
